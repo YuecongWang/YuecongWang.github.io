@@ -1,64 +1,44 @@
 ---
-
 permalink: /
 title: "Yuecong Wang | Academic Homepage"
 author_profile: true
 redirect_from:
-- /about/
-- /about.html
-
+  - /about/
+  - /about.html
 ---
 
-<p align="center">
-  <img src="/assets/avatar.jpg" width="180" style="border-radius: 50%;" alt="Profile Photo">
-</p>
+## About Me
 
-## 👋 About Me
+I am **Yuecong Wang**, currently pursuing M.S. and Ph.D. degrees in **Communication Engineering** at **Xidian University, China**.
 
-I am **Yuecong Wang**, currently pursuing M.S. and Ph.D. degrees in **Communication Engineering** at *Xidian University, China*. My research focuses on next-generation intelligent communication systems, with an emphasis on integrating deep learning into communication frameworks.
+My research centers on **data management, data security, and data-driven intelligent computing**. I study the reliability and efficiency of data integration, evolution, representation, and model training. Combining theoretical modeling, algorithm design, and experimental validation, I investigate how changes in data affect system correctness, model behavior, and computational performance.
 
----
+## Research Interests
 
-## 🔬 Research Interests
+- **Dynamic Logical Data Integration and Semantic Maintenance**  
+  Investigating data integration and the maintenance of semantics as data evolves.
+- **Knowledge Graphs and Schema Matching**  
+  Studying data representation and the alignment of schemas across heterogeneous data sources.
+- **Data Security and Clean-Label Data Poisoning**  
+  Investigating clean-label data poisoning based on multi-level feature representations and its effects on deep learning models.
+- **Deep Learning for Image Compression**  
+  Exploring learned image representations and compression methods for efficient data storage and transmission.
 
-* **Semantic Communications**
-* **Communication Engineering**
-* **Data Weaving / Data Fabric**
-* **Deep Learning**
-* **Security in Deep Learning**
+## Education
 
-  * Clean-Label Data Poisoning
-  * Feature Poisoning Attacks
+**Xidian University, China**  
+M.S. and Ph.D. studies in Communication Engineering — ongoing
 
----
+## Research Vision
 
-## 📄 Publications
+My goal is to improve the **trustworthiness, robustness, and efficiency of data-driven systems** by understanding the role of data throughout integration, evolution, representation, and learning.
 
-I am actively conducting research and submitting papers in multiple areas, including:
+## Publications
 
-* Semantic communication systems under constrained environments
-* Robust and secure deep learning
-* Efficient data representation and transmission
+Please see my [Google Scholar profile](https://scholar.google.com/citations?user=y1W511IAAAAJ&hl=zh-CN) for publication information.
 
-*(A full publication list will be updated soon.)*
+## Contact
 
----
-
-## 🚀 Research Vision
-
-My goal is to develop **efficient, robust, and intelligent communication systems** that can operate under limited bandwidth and computational resources, while also addressing **security vulnerabilities in machine learning models**.
-
----
-
-## 📫 Contact
-
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* GitHub: https://github.com/yourusername
-
----
-
-## ⚡ Notes
-
-This website is built using the Academic Pages template and hosted on GitHub Pages. It will be continuously updated with publications, projects, and research activities.
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- **Email:** [yuecongwang@stu.xidian.edu.cn](mailto:yuecongwang@stu.xidian.edu.cn)
+- **Google Scholar:** [Yuecong Wang](https://scholar.google.com/citations?user=y1W511IAAAAJ&hl=zh-CN)
+- **GitHub:** [YuecongWang](https://github.com/YuecongWang)
